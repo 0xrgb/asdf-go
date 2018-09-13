@@ -1,0 +1,22 @@
+server-time
+===========
+
+서버의 현재 시간을 출력해줍니다.
+
+Install
+-------
+
+    $ git clone https://github.com/0xrgb/asdf-go
+    $ cd asdf-go/server-time
+    $ go build .
+
+Usage
+-----
+
+    $ server-time https://example.com https://www.google.com
+    $ server-time --help
+
+License
+-------
+
+`LICENSE`는 이 저장소의 파일들의 라이센스가, `XLICENSE`는 외부 라이브러리의 라이센스가 있습니다.
